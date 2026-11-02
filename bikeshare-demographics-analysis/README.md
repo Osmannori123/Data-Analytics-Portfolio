@@ -2,6 +2,11 @@
 
 **Tools:** SQL, MySQL, Valentina Studio, Tableau, Tableau Prep
 
+### Project Files
+
+- [View Analysis Report](analytic%20report.pdf)
+- [View SQL Queries](queries.sql)
+
 Two part data analysis project completed for Data Management Fundamentals at Carnegie Mellon University.
 
 ## BikeShare Analysis
@@ -33,3 +38,5 @@ I aggregated ZIP level demographic and geographic data to the county level, calc
 ## Visualization & Data Preparation
 
 Used Tableau to present analytical results.
+
+
