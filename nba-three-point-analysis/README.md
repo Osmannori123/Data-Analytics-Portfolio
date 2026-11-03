@@ -6,8 +6,8 @@ MongoDB data analysis project completed for Data Management Fundamentals at Carn
 
 ### Project Files
 
-- View Analysis Report
-- View MongoDB Queries
+- [View Analysis Report](analysis-report.pdf)
+- [View MongoDB Queries](mongodb-queries.js)
 
 ## Analysis
 
